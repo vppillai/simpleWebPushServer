@@ -10,7 +10,8 @@ privateVapidKey = 'rHzgZzYeDMSUMqXyxwX9v-GZf1zyxGlLacqUj2Z6GDc'
 with open('..\sub.info') as f:
   sub_info = json.load(f)
 
-webpush(sub_info,
+x=webpush(sub_info,
         json.dumps({"title":"test notification title","body":"test notification body"}),
         privateVapidKey,
         vapid_claims={"sub": "mailto:vysakhpillai@gmail.com"})
+print(x)
