@@ -8,6 +8,7 @@ This repo contains a barebones web push notification experiment that lets you un
 
 - Run `python server.py`
 - Navigate to https://localhost:4443
+    - It is prefered to setup a `venv` with the deps from `requirements.txt` 
 - Click on subscribe and give permission to the browser for notifications
     - You will immediately get a test notification. If not, click on subscribe again.
   -  The subscription will be written to sub.info. Only one client is handled for now. 
