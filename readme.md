@@ -2,6 +2,8 @@
 
 This repo contains a barebones web push notification experiment that lets you understand the concept better. 
 
+**The code ins intentionally written badly since the purpose of this code is to show how the whole damn thing works in a barebones system and not how to build a scalable notification server**
+
 ## how to test
 
 - Run `python server.py`
