@@ -23,3 +23,6 @@ This repo contains a barebones web push notification experiment that lets you un
 ## keys
 
 dummy keys for the test are generated with https://vapidkeys.com/
+
+![Animation](https://user-images.githubusercontent.com/3634378/121065244-2e697200-c7e6-11eb-9d2d-66233e5bbf2f.gif)
+
