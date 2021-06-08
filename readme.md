@@ -24,5 +24,4 @@ This repo contains a barebones web push notification experiment that lets you un
 
 dummy keys for the test are generated with https://vapidkeys.com/
 
-![Animation](https://user-images.githubusercontent.com/3634378/121065244-2e697200-c7e6-11eb-9d2d-66233e5bbf2f.gif)
-
+![Animation](https://user-images.githubusercontent.com/3634378/121113380-97c1a300-c82f-11eb-993e-7b66037393a0.gif)
